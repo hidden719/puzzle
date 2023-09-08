@@ -1,4 +1,5 @@
 # Square Jigsaw Puzzle
+Algorithm followed Greedy Algorithm from https://github.com/JulienNonin/jigsaw-puzzle-solver
 
 # Possible Solutions
 - Greedy Algorithm
